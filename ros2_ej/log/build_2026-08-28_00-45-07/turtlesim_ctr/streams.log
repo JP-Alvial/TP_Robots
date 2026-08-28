@@ -1,0 +1,29 @@
+[0.848s] Invoking command in '/home/jack/Clases/TP_Robots/ros2_ej/src/turtlesim_ctr': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jack/Clases/TP_Robots/ros2_ej/build/turtlesim_ctr/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jack/Clases/TP_Robots/ros2_ej/install/turtlesim_ctr/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlesim_ctr build --build-base /home/jack/Clases/TP_Robots/ros2_ej/build/turtlesim_ctr/build install --record /home/jack/Clases/TP_Robots/ros2_ej/build/turtlesim_ctr/install.log --install-scripts $base/lib/turtlesim_ctr --single-version-externally-managed install_data
+[1.044s] running egg_info
+[1.058s] writing ../../build/turtlesim_ctr/turtlesim_ctr.egg-info/PKG-INFO
+[1.058s] writing dependency_links to ../../build/turtlesim_ctr/turtlesim_ctr.egg-info/dependency_links.txt
+[1.059s] writing entry points to ../../build/turtlesim_ctr/turtlesim_ctr.egg-info/entry_points.txt
+[1.059s] writing requirements to ../../build/turtlesim_ctr/turtlesim_ctr.egg-info/requires.txt
+[1.059s] writing top-level names to ../../build/turtlesim_ctr/turtlesim_ctr.egg-info/top_level.txt
+[1.088s] reading manifest file '../../build/turtlesim_ctr/turtlesim_ctr.egg-info/SOURCES.txt'
+[1.088s] adding license file 'LICENSE'
+[1.088s] writing manifest file '../../build/turtlesim_ctr/turtlesim_ctr.egg-info/SOURCES.txt'
+[1.088s] running build
+[1.089s] running build_py
+[1.089s] copying turtlesim_ctr/listener_ctr.py -> /home/jack/Clases/TP_Robots/ros2_ej/build/turtlesim_ctr/build/lib/turtlesim_ctr
+[1.089s] copying turtlesim_ctr/position_ctr.py -> /home/jack/Clases/TP_Robots/ros2_ej/build/turtlesim_ctr/build/lib/turtlesim_ctr
+[1.089s] running install
+[1.093s] running install_lib
+[1.108s] copying /home/jack/Clases/TP_Robots/ros2_ej/build/turtlesim_ctr/build/lib/turtlesim_ctr/listener_ctr.py -> /home/jack/Clases/TP_Robots/ros2_ej/install/turtlesim_ctr/lib/python3.12/site-packages/turtlesim_ctr
+[1.108s] copying /home/jack/Clases/TP_Robots/ros2_ej/build/turtlesim_ctr/build/lib/turtlesim_ctr/position_ctr.py -> /home/jack/Clases/TP_Robots/ros2_ej/install/turtlesim_ctr/lib/python3.12/site-packages/turtlesim_ctr
+[1.109s] byte-compiling /home/jack/Clases/TP_Robots/ros2_ej/install/turtlesim_ctr/lib/python3.12/site-packages/turtlesim_ctr/listener_ctr.py to listener_ctr.cpython-312.pyc
+[1.109s] byte-compiling /home/jack/Clases/TP_Robots/ros2_ej/install/turtlesim_ctr/lib/python3.12/site-packages/turtlesim_ctr/position_ctr.py to position_ctr.cpython-312.pyc
+[1.109s] running install_data
+[1.110s] running install_egg_info
+[1.125s] removing '/home/jack/Clases/TP_Robots/ros2_ej/install/turtlesim_ctr/lib/python3.12/site-packages/turtlesim_ctr-0.0.0-py3.12.egg-info' (and everything under it)
+[1.125s] Copying ../../build/turtlesim_ctr/turtlesim_ctr.egg-info to /home/jack/Clases/TP_Robots/ros2_ej/install/turtlesim_ctr/lib/python3.12/site-packages/turtlesim_ctr-0.0.0-py3.12.egg-info
+[1.126s] running install_scripts
+[1.224s] Installing listener_ctrl script to /home/jack/Clases/TP_Robots/ros2_ej/install/turtlesim_ctr/lib/turtlesim_ctr
+[1.225s] Installing pose_ctrl script to /home/jack/Clases/TP_Robots/ros2_ej/install/turtlesim_ctr/lib/turtlesim_ctr
+[1.225s] writing list of installed files to '/home/jack/Clases/TP_Robots/ros2_ej/build/turtlesim_ctr/install.log'
+[1.248s] Invoked command in '/home/jack/Clases/TP_Robots/ros2_ej/src/turtlesim_ctr' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jack/Clases/TP_Robots/ros2_ej/build/turtlesim_ctr/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jack/Clases/TP_Robots/ros2_ej/install/turtlesim_ctr/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlesim_ctr build --build-base /home/jack/Clases/TP_Robots/ros2_ej/build/turtlesim_ctr/build install --record /home/jack/Clases/TP_Robots/ros2_ej/build/turtlesim_ctr/install.log --install-scripts $base/lib/turtlesim_ctr --single-version-externally-managed install_data

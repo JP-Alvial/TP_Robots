@@ -1,0 +1,36 @@
+running egg_info
+creating ../../build/turtlesim_ctr/turtlesim_ctr.egg-info
+writing ../../build/turtlesim_ctr/turtlesim_ctr.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtlesim_ctr/turtlesim_ctr.egg-info/dependency_links.txt
+writing entry points to ../../build/turtlesim_ctr/turtlesim_ctr.egg-info/entry_points.txt
+writing requirements to ../../build/turtlesim_ctr/turtlesim_ctr.egg-info/requires.txt
+writing top-level names to ../../build/turtlesim_ctr/turtlesim_ctr.egg-info/top_level.txt
+writing manifest file '../../build/turtlesim_ctr/turtlesim_ctr.egg-info/SOURCES.txt'
+reading manifest file '../../build/turtlesim_ctr/turtlesim_ctr.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/turtlesim_ctr/turtlesim_ctr.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/jack/Clases/TP_Robots/ros2_ej/build/turtlesim_ctr/build
+creating /home/jack/Clases/TP_Robots/ros2_ej/build/turtlesim_ctr/build/lib
+creating /home/jack/Clases/TP_Robots/ros2_ej/build/turtlesim_ctr/build/lib/turtlesim_ctr
+copying turtlesim_ctr/__init__.py -> /home/jack/Clases/TP_Robots/ros2_ej/build/turtlesim_ctr/build/lib/turtlesim_ctr
+copying turtlesim_ctr/position_ctr.py -> /home/jack/Clases/TP_Robots/ros2_ej/build/turtlesim_ctr/build/lib/turtlesim_ctr
+running install
+running install_lib
+creating /home/jack/Clases/TP_Robots/ros2_ej/install/turtlesim_ctr/lib/python3.12/site-packages/turtlesim_ctr
+copying /home/jack/Clases/TP_Robots/ros2_ej/build/turtlesim_ctr/build/lib/turtlesim_ctr/__init__.py -> /home/jack/Clases/TP_Robots/ros2_ej/install/turtlesim_ctr/lib/python3.12/site-packages/turtlesim_ctr
+copying /home/jack/Clases/TP_Robots/ros2_ej/build/turtlesim_ctr/build/lib/turtlesim_ctr/position_ctr.py -> /home/jack/Clases/TP_Robots/ros2_ej/install/turtlesim_ctr/lib/python3.12/site-packages/turtlesim_ctr
+byte-compiling /home/jack/Clases/TP_Robots/ros2_ej/install/turtlesim_ctr/lib/python3.12/site-packages/turtlesim_ctr/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/jack/Clases/TP_Robots/ros2_ej/install/turtlesim_ctr/lib/python3.12/site-packages/turtlesim_ctr/position_ctr.py to position_ctr.cpython-312.pyc
+running install_data
+creating /home/jack/Clases/TP_Robots/ros2_ej/install/turtlesim_ctr/share/ament_index
+creating /home/jack/Clases/TP_Robots/ros2_ej/install/turtlesim_ctr/share/ament_index/resource_index
+creating /home/jack/Clases/TP_Robots/ros2_ej/install/turtlesim_ctr/share/ament_index/resource_index/packages
+copying resource/turtlesim_ctr -> /home/jack/Clases/TP_Robots/ros2_ej/install/turtlesim_ctr/share/ament_index/resource_index/packages
+copying package.xml -> /home/jack/Clases/TP_Robots/ros2_ej/install/turtlesim_ctr/share/turtlesim_ctr
+running install_egg_info
+Copying ../../build/turtlesim_ctr/turtlesim_ctr.egg-info to /home/jack/Clases/TP_Robots/ros2_ej/install/turtlesim_ctr/lib/python3.12/site-packages/turtlesim_ctr-0.0.0-py3.12.egg-info
+running install_scripts
+Installing pose_ctrl script to /home/jack/Clases/TP_Robots/ros2_ej/install/turtlesim_ctr/lib/turtlesim_ctr
+writing list of installed files to '/home/jack/Clases/TP_Robots/ros2_ej/build/turtlesim_ctr/install.log'

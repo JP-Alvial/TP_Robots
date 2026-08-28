@@ -1,0 +1,59 @@
+[0.000000] (-) TimerEvent: {}
+[0.000244] (py_pubsub) JobQueued: {'identifier': 'py_pubsub', 'dependencies': OrderedDict()}
+[0.000276] (py_pubsub) JobStarted: {'identifier': 'py_pubsub'}
+[0.099220] (-) TimerEvent: {}
+[0.199573] (-) TimerEvent: {}
+[0.299922] (-) TimerEvent: {}
+[0.400257] (-) TimerEvent: {}
+[0.500616] (-) TimerEvent: {}
+[0.600935] (-) TimerEvent: {}
+[0.701187] (-) TimerEvent: {}
+[0.801455] (-) TimerEvent: {}
+[0.837056] (py_pubsub) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/py_pubsub', 'build', '--build-base', '/home/jack/Clases/TP_Robots/ros2_ej/build/py_pubsub/build', 'install', '--record', '/home/jack/Clases/TP_Robots/ros2_ej/build/py_pubsub/install.log', '--install-scripts', '$base/lib/py_pubsub', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/jack/Clases/TP_Robots/ros2_ej/src/py_pubsub', 'env': {'GJS_DEBUG_TOPICS': 'JS ERROR;JS LOG', 'OLLAMA_BASE_URL': 'http://localhost:11434/v1', 'USER': 'jack', 'XDG_SESSION_TYPE': 'x11', 'SHLVL': '1', 'CLUTTER_DISABLE_MIPMAPPED_TEXT': '1', 'XDG_CACHE_HOME': '/home/jack/.cache', 'LD_LIBRARY_PATH': '/opt/ros/jazzy/opt/rviz_ogre_vendor/lib:/opt/ros/jazzy/lib/x86_64-linux-gnu:/opt/ros/jazzy/opt/gz_math_vendor/lib:/opt/ros/jazzy/opt/gz_utils_vendor/lib:/opt/ros/jazzy/opt/gz_cmake_vendor/lib:/opt/ros/jazzy/lib', 'BROWSER': 'Brave', 'HOME': '/home/jack', 'TERMINFO': '/usr/lib/kitty/terminfo', 'OLDPWD': '/home/jack/Clases/TP_Robots', 'DESKTOP_SESSION': 'ubuntu', 'KITTY_INSTALLATION_DIR': '/usr/lib/kitty', 'GIO_LAUNCHED_DESKTOP_FILE': '/usr/share/applications/kitty.desktop', 'GTK_MODULES': 'gail:atk-bridge', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'ROS_PYTHON_VERSION': '3', 'MANAGERPID': '1644', 'KITTY_PID': '141612', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'GSM_SKIP_SSH_AGENT_WORKAROUND': 'true', 'SYSTEMD_EXEC_PID': '3250', 'VISUAL': 'nvim', 'GIO_LAUNCHED_DESKTOP_FILE_PID': '141612', 'COLORTERM': 'truecolor', 'DEBUGINFOD_URLS': 'https://debuginfod.ubuntu.com', 'SYSTEMD_EDITOR': 'nvim', 'ROS_DISTRO': 'jazzy', 'LOGNAME': 'jack', 'JOURNAL_STREAM': '10:21393', 'WINDOWID': '37748750', '_': '/usr/bin/colcon', 'XDG_SESSION_CLASS': 'user', 'MEMORY_PRESSURE_WATCH': '/sys/fs/cgroup/user.slice/user-1000.slice/user@1000.service/session.slice/org.gnome.Shell@x11.service/memory.pressure', 'ROS_VERSION': '2', 'USERNAME': 'jack', 'TERM': 'xterm-kitty', 'KITTY_PUBLIC_KEY': '1:Tx4QWeBNUwjOq)ve>+InR0^iGv(wlzMI)+@BcL4(', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'WINDOWPATH': '2', 'PATH': '/opt/ros/jazzy/bin:/home/jack/.cargo/bin:/home/jack/.local/bin:/home/jack/.local/bin:/home/jack/.local/share/../bin:/home/jack/.local/bin:/home/jack/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'SESSION_MANAGER': 'local/euridi3:@/tmp/.ICE-unix/3217,unix/euridi3:/tmp/.ICE-unix/3217', 'INVOCATION_ID': '089d529cd2fe4cc7aef7cf8da4b843ef', 'XDG_RUNTIME_DIR': '/run/user/1000', 'XDG_MENU_PREFIX': 'gnome-', 'DISPLAY': ':1', 'LANG': 'es_ES.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'XAUTHORITY': '/run/user/1000/gdm/Xauthority', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XMODIFIERS': '@im=ibus', 'XDG_CONFIG_HOME': '/home/jack/.config', 'XDG_DATA_HOME': '/home/jack/.local/share', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/opt/ros/jazzy', 'SHELL': '/usr/bin/zsh', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'KITTY_WINDOW_ID': '1', 'GPG_AGENT_INFO': '/run/user/1000/gnupg/S.gpg-agent:0:1', 'GJS_DEBUG_OUTPUT': 'stderr', 'QT_IM_MODULE': 'ibus', 'ROS_AUTOMATIC_DISCOVERY_RANGE': 'SUBNET', 'PWD': '/home/jack/Clases/TP_Robots/ros2_ej/build/py_pubsub', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'QTWEBENGINE_DICTIONARIES_PATH': '/usr/share/hunspell-bdic/', 'PYTHONPATH': '/home/jack/Clases/TP_Robots/ros2_ej/build/py_pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jack/Clases/TP_Robots/ros2_ej/install/py_pubsub/lib/python3.12/site-packages:/opt/ros/jazzy/lib/python3.12/site-packages', 'COLCON': '1', 'MEMORY_PRESSURE_WRITE': 'c29tZSAyMDAwMDAgMjAwMDAwMAA=', 'CMAKE_PREFIX_PATH': '/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor', 'EDITOR': 'nvim'}, 'shell': False}
+[0.901562] (-) TimerEvent: {}
+[1.001823] (-) TimerEvent: {}
+[1.026110] (py_pubsub) StdoutLine: {'line': b'running egg_info\n'}
+[1.026420] (py_pubsub) StdoutLine: {'line': b'creating ../../build/py_pubsub/py_pubsub.egg-info\n'}
+[1.039629] (py_pubsub) StdoutLine: {'line': b'writing ../../build/py_pubsub/py_pubsub.egg-info/PKG-INFO\n'}
+[1.039885] (py_pubsub) StdoutLine: {'line': b'writing dependency_links to ../../build/py_pubsub/py_pubsub.egg-info/dependency_links.txt\n'}
+[1.040042] (py_pubsub) StdoutLine: {'line': b'writing entry points to ../../build/py_pubsub/py_pubsub.egg-info/entry_points.txt\n'}
+[1.040216] (py_pubsub) StdoutLine: {'line': b'writing requirements to ../../build/py_pubsub/py_pubsub.egg-info/requires.txt\n'}
+[1.040309] (py_pubsub) StdoutLine: {'line': b'writing top-level names to ../../build/py_pubsub/py_pubsub.egg-info/top_level.txt\n'}
+[1.040393] (py_pubsub) StdoutLine: {'line': b"writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'\n"}
+[1.067920] (py_pubsub) StdoutLine: {'line': b"reading manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'\n"}
+[1.068155] (py_pubsub) StdoutLine: {'line': b"adding license file 'LICENSE'\n"}
+[1.068394] (py_pubsub) StdoutLine: {'line': b"writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'\n"}
+[1.068672] (py_pubsub) StdoutLine: {'line': b'running build\n'}
+[1.068914] (py_pubsub) StdoutLine: {'line': b'running build_py\n'}
+[1.069073] (py_pubsub) StdoutLine: {'line': b'creating /home/jack/Clases/TP_Robots/ros2_ej/build/py_pubsub/build\n'}
+[1.069181] (py_pubsub) StdoutLine: {'line': b'creating /home/jack/Clases/TP_Robots/ros2_ej/build/py_pubsub/build/lib\n'}
+[1.069276] (py_pubsub) StdoutLine: {'line': b'creating /home/jack/Clases/TP_Robots/ros2_ej/build/py_pubsub/build/lib/py_pubsub\n'}
+[1.069318] (py_pubsub) StdoutLine: {'line': b'copying py_pubsub/subscriber_member_function.py -> /home/jack/Clases/TP_Robots/ros2_ej/build/py_pubsub/build/lib/py_pubsub\n'}
+[1.069364] (py_pubsub) StdoutLine: {'line': b'copying py_pubsub/publisher_member_function.py -> /home/jack/Clases/TP_Robots/ros2_ej/build/py_pubsub/build/lib/py_pubsub\n'}
+[1.069407] (py_pubsub) StdoutLine: {'line': b'copying py_pubsub/__init__.py -> /home/jack/Clases/TP_Robots/ros2_ej/build/py_pubsub/build/lib/py_pubsub\n'}
+[1.069473] (py_pubsub) StdoutLine: {'line': b'running install\n'}
+[1.073318] (py_pubsub) StdoutLine: {'line': b'running install_lib\n'}
+[1.087479] (py_pubsub) StdoutLine: {'line': b'creating /home/jack/Clases/TP_Robots/ros2_ej/install/py_pubsub/lib/python3.12/site-packages/py_pubsub\n'}
+[1.087738] (py_pubsub) StdoutLine: {'line': b'copying /home/jack/Clases/TP_Robots/ros2_ej/build/py_pubsub/build/lib/py_pubsub/subscriber_member_function.py -> /home/jack/Clases/TP_Robots/ros2_ej/install/py_pubsub/lib/python3.12/site-packages/py_pubsub\n'}
+[1.087865] (py_pubsub) StdoutLine: {'line': b'copying /home/jack/Clases/TP_Robots/ros2_ej/build/py_pubsub/build/lib/py_pubsub/publisher_member_function.py -> /home/jack/Clases/TP_Robots/ros2_ej/install/py_pubsub/lib/python3.12/site-packages/py_pubsub\n'}
+[1.087961] (py_pubsub) StdoutLine: {'line': b'copying /home/jack/Clases/TP_Robots/ros2_ej/build/py_pubsub/build/lib/py_pubsub/__init__.py -> /home/jack/Clases/TP_Robots/ros2_ej/install/py_pubsub/lib/python3.12/site-packages/py_pubsub\n'}
+[1.088133] (py_pubsub) StdoutLine: {'line': b'byte-compiling /home/jack/Clases/TP_Robots/ros2_ej/install/py_pubsub/lib/python3.12/site-packages/py_pubsub/subscriber_member_function.py to subscriber_member_function.cpython-312.pyc\n'}
+[1.088430] (py_pubsub) StdoutLine: {'line': b'byte-compiling /home/jack/Clases/TP_Robots/ros2_ej/install/py_pubsub/lib/python3.12/site-packages/py_pubsub/publisher_member_function.py to publisher_member_function.cpython-312.pyc\n'}
+[1.088739] (py_pubsub) StdoutLine: {'line': b'byte-compiling /home/jack/Clases/TP_Robots/ros2_ej/install/py_pubsub/lib/python3.12/site-packages/py_pubsub/__init__.py to __init__.cpython-312.pyc\n'}
+[1.088855] (py_pubsub) StdoutLine: {'line': b'running install_data\n'}
+[1.088933] (py_pubsub) StdoutLine: {'line': b'creating /home/jack/Clases/TP_Robots/ros2_ej/install/py_pubsub/share/ament_index\n'}
+[1.088991] (py_pubsub) StdoutLine: {'line': b'creating /home/jack/Clases/TP_Robots/ros2_ej/install/py_pubsub/share/ament_index/resource_index\n'}
+[1.089053] (py_pubsub) StdoutLine: {'line': b'creating /home/jack/Clases/TP_Robots/ros2_ej/install/py_pubsub/share/ament_index/resource_index/packages\n'}
+[1.089100] (py_pubsub) StdoutLine: {'line': b'copying resource/py_pubsub -> /home/jack/Clases/TP_Robots/ros2_ej/install/py_pubsub/share/ament_index/resource_index/packages\n'}
+[1.089162] (py_pubsub) StdoutLine: {'line': b'copying package.xml -> /home/jack/Clases/TP_Robots/ros2_ej/install/py_pubsub/share/py_pubsub\n'}
+[1.089218] (py_pubsub) StdoutLine: {'line': b'running install_egg_info\n'}
+[1.102167] (-) TimerEvent: {}
+[1.103955] (py_pubsub) StdoutLine: {'line': b'Copying ../../build/py_pubsub/py_pubsub.egg-info to /home/jack/Clases/TP_Robots/ros2_ej/install/py_pubsub/lib/python3.12/site-packages/py_pubsub-0.0.0-py3.12.egg-info\n'}
+[1.104675] (py_pubsub) StdoutLine: {'line': b'running install_scripts\n'}
+[1.202385] (-) TimerEvent: {}
+[1.203196] (py_pubsub) StdoutLine: {'line': b'Installing listener script to /home/jack/Clases/TP_Robots/ros2_ej/install/py_pubsub/lib/py_pubsub\n'}
+[1.203458] (py_pubsub) StdoutLine: {'line': b'Installing talker script to /home/jack/Clases/TP_Robots/ros2_ej/install/py_pubsub/lib/py_pubsub\n'}
+[1.203657] (py_pubsub) StdoutLine: {'line': b"writing list of installed files to '/home/jack/Clases/TP_Robots/ros2_ej/build/py_pubsub/install.log'\n"}
+[1.226839] (py_pubsub) CommandEnded: {'returncode': 0}
+[1.233745] (py_pubsub) JobEnded: {'identifier': 'py_pubsub', 'rc': 0}
+[1.234524] (-) EventReactorShutdown: {}

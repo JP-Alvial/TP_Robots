@@ -25,6 +25,7 @@ setup(
     entry_points={
         'console_scripts': [
             'listener_ctrl = turtlesim_ctr.listener_ctr:main',
+            'listener2_ctrl = turtlesim_ctr.listener_ctr:main',
             'pose_ctrl = turtlesim_ctr.position_ctr:main',
         ],
     },

@@ -1,3 +1,4 @@
 [console_scripts]
+listener2_ctrl = turtlesim_ctr.listener_ctr:main
 listener_ctrl = turtlesim_ctr.listener_ctr:main
 pose_ctrl = turtlesim_ctr.position_ctr:main

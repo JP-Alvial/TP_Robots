@@ -14,5 +14,6 @@ test/test_copyright.py
 test/test_flake8.py
 test/test_pep257.py
 turtlesim_ctr/__init__.py
+turtlesim_ctr/listener2_ctr.py
 turtlesim_ctr/listener_ctr.py
 turtlesim_ctr/position_ctr.py

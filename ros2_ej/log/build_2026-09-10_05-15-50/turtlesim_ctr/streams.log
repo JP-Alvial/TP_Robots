@@ -1,0 +1,24 @@
+[0.811s] Invoking command in '/home/j4ck/0Clases/TP_Robots/ros2_ej/src/turtlesim_ctr': PYTHONPATH=/home/j4ck/0Clases/TP_Robots/ros2_ej/build/turtlesim_ctr/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/j4ck/0Clases/TP_Robots/ros2_ej/install/turtlesim_ctr/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlesim_ctr build --build-base /home/j4ck/0Clases/TP_Robots/ros2_ej/build/turtlesim_ctr/build install --record /home/j4ck/0Clases/TP_Robots/ros2_ej/build/turtlesim_ctr/install.log --install-scripts $base/lib/turtlesim_ctr --single-version-externally-managed install_data
+[0.980s] running egg_info
+[0.981s] writing ../../build/turtlesim_ctr/turtlesim_ctr.egg-info/PKG-INFO
+[0.981s] writing dependency_links to ../../build/turtlesim_ctr/turtlesim_ctr.egg-info/dependency_links.txt
+[0.982s] writing entry points to ../../build/turtlesim_ctr/turtlesim_ctr.egg-info/entry_points.txt
+[0.982s] writing requirements to ../../build/turtlesim_ctr/turtlesim_ctr.egg-info/requires.txt
+[0.982s] writing top-level names to ../../build/turtlesim_ctr/turtlesim_ctr.egg-info/top_level.txt
+[0.982s] reading manifest file '../../build/turtlesim_ctr/turtlesim_ctr.egg-info/SOURCES.txt'
+[0.982s] adding license file 'LICENSE'
+[0.983s] writing manifest file '../../build/turtlesim_ctr/turtlesim_ctr.egg-info/SOURCES.txt'
+[0.983s] running build
+[0.983s] running build_py
+[0.983s] running install
+[0.983s] running install_lib
+[0.984s] running install_data
+[0.985s] running install_egg_info
+[0.986s] removing '/home/j4ck/0Clases/TP_Robots/ros2_ej/install/turtlesim_ctr/lib/python3.10/site-packages/turtlesim_ctr-0.0.0-py3.10.egg-info' (and everything under it)
+[0.986s] Copying ../../build/turtlesim_ctr/turtlesim_ctr.egg-info to /home/j4ck/0Clases/TP_Robots/ros2_ej/install/turtlesim_ctr/lib/python3.10/site-packages/turtlesim_ctr-0.0.0-py3.10.egg-info
+[0.987s] running install_scripts
+[1.002s] Installing listener2_ctrl script to /home/j4ck/0Clases/TP_Robots/ros2_ej/install/turtlesim_ctr/lib/turtlesim_ctr
+[1.002s] Installing listener_ctrl script to /home/j4ck/0Clases/TP_Robots/ros2_ej/install/turtlesim_ctr/lib/turtlesim_ctr
+[1.002s] Installing pose_ctrl script to /home/j4ck/0Clases/TP_Robots/ros2_ej/install/turtlesim_ctr/lib/turtlesim_ctr
+[1.003s] writing list of installed files to '/home/j4ck/0Clases/TP_Robots/ros2_ej/build/turtlesim_ctr/install.log'
+[1.032s] Invoked command in '/home/j4ck/0Clases/TP_Robots/ros2_ej/src/turtlesim_ctr' returned '0': PYTHONPATH=/home/j4ck/0Clases/TP_Robots/ros2_ej/build/turtlesim_ctr/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/j4ck/0Clases/TP_Robots/ros2_ej/install/turtlesim_ctr/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlesim_ctr build --build-base /home/j4ck/0Clases/TP_Robots/ros2_ej/build/turtlesim_ctr/build install --record /home/j4ck/0Clases/TP_Robots/ros2_ej/build/turtlesim_ctr/install.log --install-scripts $base/lib/turtlesim_ctr --single-version-externally-managed install_data

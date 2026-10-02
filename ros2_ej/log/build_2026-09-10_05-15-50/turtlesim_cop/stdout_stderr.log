@@ -1,0 +1,23 @@
+running egg_info
+writing ../../build/turtlesim_cop/turtlesim_cop.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtlesim_cop/turtlesim_cop.egg-info/dependency_links.txt
+writing entry points to ../../build/turtlesim_cop/turtlesim_cop.egg-info/entry_points.txt
+writing requirements to ../../build/turtlesim_cop/turtlesim_cop.egg-info/requires.txt
+writing top-level names to ../../build/turtlesim_cop/turtlesim_cop.egg-info/top_level.txt
+reading manifest file '../../build/turtlesim_cop/turtlesim_cop.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/turtlesim_cop/turtlesim_cop.egg-info/SOURCES.txt'
+running build
+running build_py
+copying turtlesim_cop/inversor.py -> /home/j4ck/0Clases/TP_Robots/ros2_ej/build/turtlesim_cop/build/lib/turtlesim_cop
+running install
+running install_lib
+copying /home/j4ck/0Clases/TP_Robots/ros2_ej/build/turtlesim_cop/build/lib/turtlesim_cop/inversor.py -> /home/j4ck/0Clases/TP_Robots/ros2_ej/install/turtlesim_cop/lib/python3.10/site-packages/turtlesim_cop
+byte-compiling /home/j4ck/0Clases/TP_Robots/ros2_ej/install/turtlesim_cop/lib/python3.10/site-packages/turtlesim_cop/inversor.py to inversor.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/j4ck/0Clases/TP_Robots/ros2_ej/install/turtlesim_cop/lib/python3.10/site-packages/turtlesim_cop-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/turtlesim_cop/turtlesim_cop.egg-info to /home/j4ck/0Clases/TP_Robots/ros2_ej/install/turtlesim_cop/lib/python3.10/site-packages/turtlesim_cop-0.0.0-py3.10.egg-info
+running install_scripts
+Installing invert_ctrl script to /home/j4ck/0Clases/TP_Robots/ros2_ej/install/turtlesim_cop/lib/turtlesim_cop
+writing list of installed files to '/home/j4ck/0Clases/TP_Robots/ros2_ej/build/turtlesim_cop/install.log'

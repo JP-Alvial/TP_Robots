@@ -28,3 +28,10 @@ Requisitos principales para la creación de proyectos:
     - Creación de nodos
 
 
+## Referencias
+
+Instalación de ROS2 Humble: <https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debs.html>
+
+Inicio de Turtlebots: <https://docs.robotis.com/docs/systems/turtlebot3/quick_start_guide/pc_setup>
+
+Repositorio github de la clase: <https://github.com/JP-Alvial/TP_Robots>

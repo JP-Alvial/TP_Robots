@@ -1,0 +1,25 @@
+[0.833s] Invoking command in '/home/j4ck/0Clases/TP_Robots/ros2_ej/src/turtlesim_cop': PYTHONPATH=/home/j4ck/0Clases/TP_Robots/ros2_ej/build/turtlesim_cop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/j4ck/0Clases/TP_Robots/ros2_ej/install/turtlesim_cop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlesim_cop build --build-base /home/j4ck/0Clases/TP_Robots/ros2_ej/build/turtlesim_cop/build install --record /home/j4ck/0Clases/TP_Robots/ros2_ej/build/turtlesim_cop/install.log --install-scripts $base/lib/turtlesim_cop --single-version-externally-managed install_data
+[1.003s] running egg_info
+[1.003s] writing ../../build/turtlesim_cop/turtlesim_cop.egg-info/PKG-INFO
+[1.004s] writing dependency_links to ../../build/turtlesim_cop/turtlesim_cop.egg-info/dependency_links.txt
+[1.004s] writing entry points to ../../build/turtlesim_cop/turtlesim_cop.egg-info/entry_points.txt
+[1.004s] writing requirements to ../../build/turtlesim_cop/turtlesim_cop.egg-info/requires.txt
+[1.004s] writing top-level names to ../../build/turtlesim_cop/turtlesim_cop.egg-info/top_level.txt
+[1.005s] reading manifest file '../../build/turtlesim_cop/turtlesim_cop.egg-info/SOURCES.txt'
+[1.005s] adding license file 'LICENSE'
+[1.006s] writing manifest file '../../build/turtlesim_cop/turtlesim_cop.egg-info/SOURCES.txt'
+[1.006s] running build
+[1.006s] running build_py
+[1.006s] copying turtlesim_cop/inversor.py -> /home/j4ck/0Clases/TP_Robots/ros2_ej/build/turtlesim_cop/build/lib/turtlesim_cop
+[1.006s] running install
+[1.006s] running install_lib
+[1.007s] copying /home/j4ck/0Clases/TP_Robots/ros2_ej/build/turtlesim_cop/build/lib/turtlesim_cop/inversor.py -> /home/j4ck/0Clases/TP_Robots/ros2_ej/install/turtlesim_cop/lib/python3.10/site-packages/turtlesim_cop
+[1.007s] byte-compiling /home/j4ck/0Clases/TP_Robots/ros2_ej/install/turtlesim_cop/lib/python3.10/site-packages/turtlesim_cop/inversor.py to inversor.cpython-310.pyc
+[1.008s] running install_data
+[1.008s] running install_egg_info
+[1.010s] removing '/home/j4ck/0Clases/TP_Robots/ros2_ej/install/turtlesim_cop/lib/python3.10/site-packages/turtlesim_cop-0.0.0-py3.10.egg-info' (and everything under it)
+[1.010s] Copying ../../build/turtlesim_cop/turtlesim_cop.egg-info to /home/j4ck/0Clases/TP_Robots/ros2_ej/install/turtlesim_cop/lib/python3.10/site-packages/turtlesim_cop-0.0.0-py3.10.egg-info
+[1.011s] running install_scripts
+[1.027s] Installing invert_ctrl script to /home/j4ck/0Clases/TP_Robots/ros2_ej/install/turtlesim_cop/lib/turtlesim_cop
+[1.028s] writing list of installed files to '/home/j4ck/0Clases/TP_Robots/ros2_ej/build/turtlesim_cop/install.log'
+[1.055s] Invoked command in '/home/j4ck/0Clases/TP_Robots/ros2_ej/src/turtlesim_cop' returned '0': PYTHONPATH=/home/j4ck/0Clases/TP_Robots/ros2_ej/build/turtlesim_cop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/j4ck/0Clases/TP_Robots/ros2_ej/install/turtlesim_cop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlesim_cop build --build-base /home/j4ck/0Clases/TP_Robots/ros2_ej/build/turtlesim_cop/build install --record /home/j4ck/0Clases/TP_Robots/ros2_ej/build/turtlesim_cop/install.log --install-scripts $base/lib/turtlesim_cop --single-version-externally-managed install_data

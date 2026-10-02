@@ -1,0 +1,3 @@
+[console_scripts]
+invert_ctrl = turtlesim_cop.inversor:main
+
